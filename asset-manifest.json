@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.64b47db5.css",
+    "main.js": "/reactlivewebsite/static/js/main.abcf2b44.js",
+    "static/js/787.06ecf569.chunk.js": "/reactlivewebsite/static/js/787.06ecf569.chunk.js",
+    "static/media/matar.jpg": "/reactlivewebsite/static/media/matar.576d8a935b085cd61674.jpg",
+    "static/media/dosa.jpg": "/reactlivewebsite/static/media/dosa.862f8463dfcb4b14584d.jpg",
+    "static/media/chilli.jpg": "/reactlivewebsite/static/media/chilli.e909c7d21f0bf512ce13.jpg",
+    "static/media/poha.jpg": "/reactlivewebsite/static/media/poha.26d98a5edee16e7034f4.jpg",
+    "static/media/shaahi.jpg": "/reactlivewebsite/static/media/shaahi.4defce70e6e0b208c64d.jpg",
+    "static/media/raita.jpg": "/reactlivewebsite/static/media/raita.ca7da5b15978088e967e.jpg",
+    "static/media/roti.jpg": "/reactlivewebsite/static/media/roti.8167a2f4111643bf945b.jpg",
+    "static/media/maggie1.jpg": "/reactlivewebsite/static/media/maggie1.f432f4b4ca23e65dae28.jpg",
+    "static/media/rajma.jpg": "/reactlivewebsite/static/media/rajma.66974c1d3f6a5b0d3026.jpg",
+    "static/media/pulao.jpg": "/reactlivewebsite/static/media/pulao.c997ff1b71d8858888cd.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.64b47db5.css.map": "/reactlivewebsite/static/css/main.64b47db5.css.map",
+    "main.abcf2b44.js.map": "/reactlivewebsite/static/js/main.abcf2b44.js.map",
+    "787.06ecf569.chunk.js.map": "/reactlivewebsite/static/js/787.06ecf569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b47db5.css",
+    "static/js/main.abcf2b44.js"
+  ]
+}
